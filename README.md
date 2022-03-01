@@ -1,18 +1,18 @@
 **************************************************************************************************************************************
 
-**Purpose of Documentation : Analysis of Michael Jordan's Career Statistics during Regular NBA Season.
+**Purpose of Documentation :** Analysis of Michael Jordan's Career Statistics during Regular NBA Season.
 
-**Programming Language : Python
+**Programming Language :** Python
 
-**Date of Documentation : March 2022
+**Date of Documentation :** March 2022
 
 **Data Source :** https://www.basketball-reference.com/
 
-**Created by : Sudip Roy
+**Created by :** Sudip Roy
 
-**Posted on : GitHub
+**Posted on :** GitHub
 
-**Additonal Information:
+**Additonal Information:**
 
 NBA (National Basketball Association), a professional basketball league in North America is celebrating it's 75 Anniversary Season 
 for 2021-22 calendar. It is considered to be the premier basketball league in the world. 
