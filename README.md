@@ -25,14 +25,14 @@ NBA Video Refresher Link: https://www.youtube.com/watch?v=LLXaLAuDjYU
 Over the last 75 seasons, NBA has provided high intensity moments in basketball thanks to some jaw dropping performances 
 from some high pedigree professionals. Some of them being - Bill Russell, Kareem Abdul-Jabbar, Magic Johnson, Larry Bird, 
 Late Kobe Bryant, LeBron James, Stephen Curry, Kevin Durant and many more. 
-But there is one individual whose on-court attics has surprised and stunned the world over - Michael Jordan(retired now). 
+But there is one individual whose on-court antics has surprised and stunned the world over. A special player - Michael Jordan(retired now). 
 He is one of the most celebrated athlete on the planet, whose performances has inspired many young upcoming talents around the world 
 and his career statistics prove the fact that he is one of the greatest atheletes of all time.
 
 Michael Jordan's Player Profile: https://www.basketball-reference.com/players/j/jordami01.html
 
 
-We will be analysis Michael Jordan's career numbers using one of Pythons's most powerful library - Pandas.
+In this repository we will be analysing Michael Jordan's career numbers using one of Pythons's most powerful library - Pandas.
 Pandas is an open source library in Python that allows data analysis and data manipulation of tables. It is extremely fast, flexible
 and provides various data structures and operations for manipulating numerical data and time series.
 
